@@ -18,8 +18,12 @@
    - Mensagem vs Fluxo
    - Confiável vs Não confiável
    - Ponto a ponto (p2p) vs Muitos para muitos
+5. Mecamismos de comunicação entre tarefas
+   - Mesmo computador: processos e linhas de execução
+   - Computadores diferentes: sockets e protocolo de comunicação
 
 ---
 ## Referência
 - [MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2.](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start)
   - [Parte III: Interação entre tarefas - Cap 8: Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf)
+  - [Parte III: Interação entre tarefas - Cap 9: Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-09.pdf)
